@@ -29,4 +29,5 @@ Currently learning:
 <br>
 🌕 YARA
 <br>
-<img src="https://user-images.githubusercontent.com/68018921/112025280-c757ed80-8b13-11eb-8b22-eda4cabed383.png">
+<br>
+<a href="https://www.linkedin.com/in/leonardo-henrique-125719197"><img src="https://user-images.githubusercontent.com/68018921/112025280-c757ed80-8b13-11eb-8b22-eda4cabed383.png"></a>
