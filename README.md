@@ -1,5 +1,5 @@
 
-    ![download (4](https://user-images.githubusercontent.com/68018921/112013606-ec932e80-8b08-11eb-8ce6-3891822e37b5.png)
+   <img src="https://user-images.githubusercontent.com/68018921/112013606-ec932e80-8b08-11eb-8ce6-3891822e37b5.png">
 <h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
 
 
