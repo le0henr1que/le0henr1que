@@ -15,8 +15,7 @@ My 🎓:
 <br>
 -🎓 IMPACTA: Cyber Security
 <br>
-<br>
-<br>
+
 Favourites tools:
 <br><br>
 🐍 Python
