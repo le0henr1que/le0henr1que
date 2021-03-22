@@ -9,11 +9,6 @@
 <h5><p>Curious and enthusiastic in programming and IoT focusing especially on web systems, currently studying Cyber Security</p></h5>
 <br>
 
-My 🎓: 
-<br>
--🎓 IMPACTA: Cyber Security
-<br>
-<br>
 Favourites tools:
 🐍 Python
 <br>
@@ -31,3 +26,5 @@ Currently learning:
 <br>
 <br>
 <a href="https://www.linkedin.com/in/leonardo-henrique-125719197"><img src="https://user-images.githubusercontent.com/68018921/112025280-c757ed80-8b13-11eb-8b22-eda4cabed383.png" width="35px" height="35px"></a>
+
+<a href="https://www.linkedin.com/in/leonardo-henrique-125719197"><img src="https://user-images.githubusercontent.com/68018921/112025869-641a8b00-8b14-11eb-8f14-c35521b0dcc8.png" width="35px" height="35px"></a>
