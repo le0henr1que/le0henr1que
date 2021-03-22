@@ -17,7 +17,6 @@ My 🎓:
 <br>
 
 Favourites tools:
-<br><br>
 🐍 Python
 <br>
 🐘 PHP
