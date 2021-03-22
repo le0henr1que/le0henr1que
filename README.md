@@ -29,5 +29,4 @@ Currently learning:
 <br>
 🌕 YARA
 <br>
-<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
-
+<img src="https://user-images.githubusercontent.com/68018921/112025280-c757ed80-8b13-11eb-8b22-eda4cabed383.png">
