@@ -1,7 +1,7 @@
 
 
 
-  <img src="https://user-images.githubusercontent.com/68018921/112045825-0d1fb080-8b2a-11eb-8940-efe9d595374b.jpg" width="100%" height="200px">
+  <img src="https://user-images.githubusercontent.com/68018921/112045825-0d1fb080-8b2a-11eb-8940-efe9d595374b.jpg" >
 
 
 <h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
