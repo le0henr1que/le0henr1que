@@ -8,14 +8,19 @@
 
 <h5><p>Curious and enthusiastic in programming and IoT focusing especially on web systems, currently studying Cyber Security</p></h5>
 <br>
+<br>
+<br>
 Design Portifolio
+<br>
 <br>
 My 🎓: 
 <br>
 -🎓 IMPACTA: Cyber Security
 <br>
-Favourites tools:
 <br>
+<br>
+Favourites tools:
+<br><br>
 🐍 Python
 <br>
 🐘 PHP
@@ -23,7 +28,7 @@ Favourites tools:
 ⭕ CSS
 <br>
 🎛 Arduino
-<br>
+<br><br>
 Currently learning:
 <br>
 ⚡ Electro
