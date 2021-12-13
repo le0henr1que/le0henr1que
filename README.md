@@ -17,7 +17,12 @@
    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
   </td>
   <td>
+  <tr>
    <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que">
+ </tr>
+ <tr>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0henr1que">
+ </tr>
   </td>
  </table>
  
