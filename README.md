@@ -23,18 +23,29 @@
  </table>
 
 <h2>My Skills </h2> 
-
-- uses: Platane/snk@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ git@github.com:le0henr1que/le0henr1que.git }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
- 
+<table>
+ <td>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ </td>
+  <td>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ </td>
+  <td>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ </td>
+   <td>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ </td>
+  <td>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ </td>
+   <td>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+ </td>
+ <td>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+ </td>
+  <td>
+  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+ </td>
+</table>
