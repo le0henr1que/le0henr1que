@@ -16,7 +16,7 @@
   <td>
    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
   </td>
-  <td position="center">
+  <td textAlign="center">
 
    <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que" width="400px">
 
