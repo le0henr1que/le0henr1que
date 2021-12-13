@@ -16,12 +16,12 @@
   <td>
    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
   </td>
-  <td>
+  <td position="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que" width="300px">
+   <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que" width="400px">
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0henr1que" width="300px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0henr1que" width="400px">
 
   </td>
  </table>
