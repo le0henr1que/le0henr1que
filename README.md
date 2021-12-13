@@ -1,7 +1,7 @@
 
 <h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
 
-<table  border-bottom"0px">
+<table  border-bottom"0px" position="center">
  <td>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </td>
