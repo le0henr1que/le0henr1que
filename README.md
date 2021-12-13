@@ -18,10 +18,9 @@
   </td>
   <td textAlign="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que" width="400px">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que>
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le0henr1que" width="400px">
 
   </td>
  </table>
