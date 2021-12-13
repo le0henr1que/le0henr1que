@@ -12,9 +12,12 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </td>
  </table>
-
- <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
-
-<img src="https://github-readme-stats.vercel.app/api?username=le0henr1que">
-
+ <table  border-bottom"0px" position="center">
+  <td>
+   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+  </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que">
+  </td>
+ </table>
  
