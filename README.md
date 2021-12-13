@@ -1,7 +1,7 @@
 
 <h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
 
- <table  border-bottom"0px" position="center">
+ <table width="100%">
   <td>
   <center> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></center>
   </td>
@@ -18,7 +18,7 @@
   </td>
  
   <td textAlign="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que" width="400px" height="500px">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que" width="500px" height="300px">
   </td>
  </table>
  
