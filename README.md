@@ -1,5 +1,5 @@
 
-<h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
+<h2 align="center">Hi 👋 , I am Leonardo 👨‍💻 </h2> 
 
  <table align="center"> 
   <td>
@@ -22,7 +22,7 @@
   </td>
  </table>
 
-<h2>My Skills </h2> 
+<h2 align="center">My Skills </h2> 
 <center>
 <table align="center">
  <td>
