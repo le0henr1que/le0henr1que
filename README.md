@@ -13,7 +13,7 @@
   </td>
  </table>
  <table  border-bottom"0px" position="center">
-  <td width="600px"> 
+  <td width="750px"> 
    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
   </td>
  
