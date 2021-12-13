@@ -13,12 +13,12 @@
   </td>
  </table>
  <table  border-bottom"0px" position="center">
-  <td width="750px"> 
+  <td width="700px"> 
    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
   </td>
  
   <td textAlign="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que" width="800px">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que" >
   </td>
  </table>
  
