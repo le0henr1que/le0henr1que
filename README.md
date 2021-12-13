@@ -23,6 +23,6 @@
  </table>
 
 <h2>My Skills </h2> 
-![Snake animation](https://github.com/le0henr1que/le0henr1que/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/le0henr1que/le0henr1que/blob/output/github-contribution-grid-snake.svg">
 
  
