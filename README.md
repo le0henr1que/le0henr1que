@@ -21,10 +21,8 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0henr1que" width="500px" height="300px">
   </td>
  </table>
- 
-<hr>
 
-<h2>Hi 👋 , I am Leonardo 👨‍💻 </h2> 
+<h2>My Skills </h2> 
+![Snake animation](https://github.com/le0henr1que/le0henr1que/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
  
