@@ -3,13 +3,13 @@
 
  <table align="center"> 
   <td>
-  <center> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></center>
+  <center><a href="https://www.linkedin.com/in/leonardo-henrique-125719197/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></center>
   </td>
   <td>
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/le0henr1que/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </td>
   <td>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/le0henr1que/le0henr1que"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   </td>
  </table>
  <table  border-bottom"0px" position="center">
