@@ -14,8 +14,8 @@
  </table>
  <table  border-bottom"0px" position="center">
   <td width="550px"> 
-   <img src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif">
-  </td>
+<img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+</td>
  
   <td textAlign="center">
    <img src="https://github-readme-stats.vercel.app/api?username=le0henr1que&show_icons=true&theme=radical" > 
