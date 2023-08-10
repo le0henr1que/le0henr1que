@@ -64,4 +64,3 @@
 </table>
 </center>
 
-<img width="100%" src="https://github.com/le0henr1que/le0henr1que/blob/output/github-contribution-grid-snake.svg">
